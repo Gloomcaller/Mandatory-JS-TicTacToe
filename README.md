@@ -13,7 +13,7 @@ A simple and interactive Tic Tac Toe game built with HTML, CSS, and JavaScript.
 
 1. Clone the repository to your local machine:
 
-   git clone https://github.com/Gloomcaller/TicTacToe-Game
+   git clone `https://github.com/Gloomcaller/TicTacToe-Game`
 
 2. Open the `index.html` file in a web browser.
 
